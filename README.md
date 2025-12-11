@@ -49,7 +49,7 @@
    - 创建workers，复制仓库里workers.js的代码，然后点击部署
 
 2. 创建KV存储:
-   - 新建一个名为CARD_ORDER的KV存储，用于存储数据
+   - 新建一个名为DH_CARD_ORDER的KV存储，用于存储数据
 
 3. 添加环境变量:
    - ADMIN_PASSWORD，管理员登录密码
